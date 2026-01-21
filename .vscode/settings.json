@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /workspaces/next-landing-vpn && npm install @fullhuman/postcss-purgecss --legacy-peer-deps$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
